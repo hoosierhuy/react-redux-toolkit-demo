@@ -28,3 +28,9 @@ Redux ToolKit: https://redux-toolkit.js.org/introduction/getting-started
 │  └─ types.d.ts
 ├─ tsconfig.json
 ```
+
+## To run app
+
+Please run `npm i` in the root directory containing package.json file. Once packages are installed, please issue the `npm start` command, which will launch app on port 3000, in the browser.
+
+To run the unit test, please issue the `npm run test` command.
