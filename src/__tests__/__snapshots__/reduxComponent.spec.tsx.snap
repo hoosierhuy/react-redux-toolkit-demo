@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Renders UserInfo 1`] = `
+<DocumentFragment>
+  <div
+    class="css-1fdecp7"
+  >
+    <div
+      class="css-j7qwjs"
+    >
+      <p
+        class="chakra-text css-16mom77"
+      >
+        Huy
+      </p>
+    </div>
+    <button
+      class="chakra-button css-1iz9f5j"
+      type="button"
+    >
+      Delete
+    </button>
+  </div>
+</DocumentFragment>
+`;
