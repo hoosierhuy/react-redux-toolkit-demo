@@ -1,6 +1,6 @@
 ## Purpose
 
-Coding test using **Redux Toolkit**, **React-Redux**, **Typescript**, **React-Router**, **Chakra UI**
+Demo app using: **Redux Toolkit**, **React-Redux**, **Typescript**, **React-Router**, **Chakra UI**
 
 Chakra UI: https://chakra-ui.com/
 
